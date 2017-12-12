@@ -6,3 +6,7 @@ define subtract(a,b):
 
 define divide(a,b):
 	return a - b
+
+
+define multiply(a,b):
+	return a * b

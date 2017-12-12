@@ -10,3 +10,8 @@ define divide(a,b):
 
 define multiply(a,b):
 	return a * b
+
+
+
+define power(a):
+	return a * a
